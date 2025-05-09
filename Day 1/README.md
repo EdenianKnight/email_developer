@@ -9,46 +9,105 @@
 
 ---
 
-## 🎥 Video Resource:
-**Title:** Responsive HTML Email Signature for All Email Clients - Design 1
+```markdown
+# 🌍 HTML Signature Design — Solomon Okomowho
+
+A professional HTML email signature built for **Solomon Okomowho**, Fullstack Software Engineer. This signature combines clean design, branding consistency, and African-inspired visuals to create a memorable and functional digital identity.
 
 ---
 
-## ✅ What You Must Do:
+## ✨ Features
 
-1. **Watch the video and practice along.**  
-   - Don’t worry if you don’t understand everything (you most likely will understand).  
-   - The goal is to **practice first**.  
-   - **Do exactly what the video does**—every detail, every element.  
-   - **Do not use your own details yet.**
-
-2. **Type out the code yourself.**  
-   - **No copy-pasting.**  
-   - Don’t be un-serious and lazy.
-
-3. **Take note of every element and step used.**
-
-4. **Once done practicing, clear your code completely.**  
-   - Now type it all out **again from the beginning**.  
-   - This time:
-     - Replace their details with **your own**.
-     - Change the **colors**, **images**, and anything else you want to customize.
-
-5. **Again, type the code yourself.**  
-   - **No shortcuts or pasting.**  
-   - Stay focused and thorough.
-
-6. **After step 4 is complete:**
-   - Copy your final code.
-   - Paste it into **ChatGPT**, **Claude AI**, or **v0.dev**.
-   - Use this prompt or similar:  
-     > "Explain this code to me like I'm 5 years old."
-
-7. **Make sure you understand the explanation.**  
-   - Ask questions about anything you don’t get.  
-   - Use your AI tool, or ask **me 😊**  
-   - **Important:** Do **not** use AI to write your code—only to understand what you wrote by hand.
+- 📸 Profile photo with rounded styling
+- 🖼️ Background pattern representing African heritage
+- 🔗 Clickable social media icons (PNG format)
+- 📱 Contact info with `tel:` and `mailto:` links
+- 🧩 Table-based layout for maximum email compatibility
+- 🌐 Responsive design that adapts to most email clients
 
 ---
 
-⏰ **Reminder: The Deadline is May 7, 2025, by 10 PM**
+## 📸 Final Product Preview
+
+### ✅ Screenshot
+
+> Right-click the image below and open in a new tab to view full size
+
+![HTML Signature Preview](./img/preview.png)
+
+---
+
+### 🌍 Live Preview (Optional)
+
+> View the final signature live in the browser  
+**🔗 [Live Preview](https://your-live-preview-link.com)**
+
+---
+
+## 📁 Project Structure
+
+```
+
+html-signature/
+├── index.html                   # Main signature file
+├── README.md                    # Project documentation
+├── img/
+│   ├── darthus.png              # Profile photo
+│   ├── colorful-pattern.png     # Background pattern
+│   ├── github.png               # GitHub icon
+│   ├── instagram.png            # Instagram icon
+│   ├── linkedin.png             # LinkedIn icon
+│   └── x.png                    # X (Twitter) icon
+
+````
+
+---
+
+## 🚀 Usage Instructions
+
+1. **Clone or download the project**:
+   ```bash
+   git clone https://github.com/yourusername/html-signature.git
+````
+
+2. **Open `index.html`** in any browser to preview.
+
+3. **Customize your details** (name, title, contacts, social links) as needed.
+
+4. **Embed it into your email client**:
+
+   * Copy and paste the HTML code into your email signature settings.
+   * Ensure image links use direct, public HTTPS URLs.
+
+---
+
+## 🛠️ Tech Stack
+
+* **HTML5**
+* **Inline CSS** (optimized for email rendering)
+* **PNG icons and assets**
+* **Cloud-based image hosting**
+
+---
+
+## 🧑‍💻 Author
+
+**Solomon Okomowho**
+👨🏾‍💻 Fullstack Software Engineer
+📍 Lagos, Nigeria
+📧 [solomon.okomowho@gmail.com](mailto:solomon.okomowho@gmail.com)
+📞 [+2348038528778](tel:+2348038528778)
+🌐 [Portfolio](https://tinyurl.com/solomonokomowho)
+🔗 [LinkedIn](https://www.linkedin.com/in/solomon-okomowho/)
+🐦 [X (Twitter)](https://x.com/darth_jade_i)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+Feel free to use, modify, and integrate it into your personal or business emails.
+
+© KKF Solutions & Resource 2025
+
+```
