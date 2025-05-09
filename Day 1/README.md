@@ -37,7 +37,7 @@ A professional HTML email signature built for **Solomon Okomowho**, Fullstack So
 
 ---
 
-### 🌍 Live Preview (Optional)
+### 🌍 Live Preview (will be available when hosted)
 
 > View the final signature live in the browser  
 **🔗 [Live Preview](https://your-live-preview-link.com)**
