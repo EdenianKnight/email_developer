@@ -1,3 +1,5 @@
 I am creating an html email signature. i have a png profile picture that has a background color of #00bf63. i want colors for other elements (background, heading, body text, icons, decoration lines, etc ) in the design that will complement  #00bf63. 
 
 I would also like to have an african print element probably as the backgroound or design element to add. So provide a prompt to generate this african print
+
+the border element for the table sets borders for the td and tr in the table
