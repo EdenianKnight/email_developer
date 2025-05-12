@@ -3,3 +3,5 @@ I am creating an html email signature. i have a png profile picture that has a b
 I would also like to have an african print element probably as the backgroound or design element to add. So provide a prompt to generate this african print
 
 the border element for the table sets borders for the td and tr in the table
+
+background-color: rgb(255, 255, 255, 0.4);
